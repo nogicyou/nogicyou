@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nogicyou
 - 👀 I’m interested in data science, IoT and web development.
 - 🌱 I’m currently learning CSS & Javascript
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate on data science projects!
 - 📫 How to reach me cyounogi@gmail.com
 
 <!---
